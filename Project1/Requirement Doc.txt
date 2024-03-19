@@ -1,3 +1,3 @@
 
-Google doc file for requirements: https://docs.google.com/document/d/17Secr5dCFHtySoXjvV2CgBJUYmxsUoaS/edit?usp=sharing&ouid=102847988851286567031&rtpof=true&sd=true
-{google_docs}https://docs.google.com/document/d/17Secr5dCFHtySoXjvV2CgBJUYmxsUoaS/edit?usp=sharing&ouid=102847988851286567031&rtpof=true&sd=true{/google_docs}
+Google doc file for requirements: 
+https://docs.google.com/document/d/17Secr5dCFHtySoXjvV2CgBJUYmxsUoaS/edit?usp=sharing&ouid=102847988851286567031&rtpof=true&sd=true
