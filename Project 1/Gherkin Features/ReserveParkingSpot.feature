@@ -2,10 +2,10 @@ Feature: Reserve a parking spot
     
     Background:
       Given I am the user
-      And I am on the homepage
       
     Scenario:Succefully reserve a parking spot
       When I select a parking spot
+      And I press the "Reserve spot" button
       And the spot is available
       Then the system should reserve the spot 
       And I should see the message "Spot Reserved!"
@@ -17,8 +17,10 @@ Feature: Reserve a parking spot
       
     Scenario:Parking spot is occupied 
       When I select a parking spot
+      And I press the "Reserve spot" button
       But the spot is occupied
       Then I should see the message "Spot is full! Select a different spot."
       And I should be able to select another parking spot
       
+    
     
