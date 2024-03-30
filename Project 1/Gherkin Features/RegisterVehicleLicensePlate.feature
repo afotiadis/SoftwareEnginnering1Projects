@@ -2,6 +2,7 @@ Feature: Register vehicle's license plate
   
   Background:
     Given that I am the user
+    And I am on the homepage
 
   Scenario:Succefully register a vehicle's license plate
     When I sumbit a vehicle's <license plate>

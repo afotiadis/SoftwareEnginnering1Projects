@@ -2,6 +2,7 @@ Feature: Modify vehicle's license plate
   
   Background:
     Given that I am the user
+    And I am on the homepage
     And I have made a vehicle's license plate registration
     
   Scenario:Checking the correct registration

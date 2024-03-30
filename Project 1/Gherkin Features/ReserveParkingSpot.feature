@@ -23,4 +23,3 @@ Feature: Reserve a parking spot
       And I should be able to select another parking spot
       
     
-    

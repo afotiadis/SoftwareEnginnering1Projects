@@ -19,12 +19,11 @@ Feature: Search for available parking spots
     And I press the "search by address" button 
     But the parking spots near this address are occupied or non-existent
     Then I should see the message "Failed search! Try another address."
-    And I should be able to enter an <address>
+    And I should be able to enter an address again
     
   Scenario: Successful search for available parking spots by type
     When I press the "search by type" button
     Then I should see all possible spot <type>
-        |['pilothouse','underground','garage']|
     When I select type
     And available parking spots of this selected type exist
     Then I should see the message "We found some spots!"
@@ -35,16 +34,14 @@ Feature: Search for available parking spots
     Scenario: Failed search for available parking spots by type
     When I press the "search by type" button
     Then I should see all possible spot <type>
-        |['pilothouse','underground','garage']|
     When I select type
     But the parking spots of the selected type are occupied or non-existent
     Then I should see the message "Failed search! Try another spot type."
-    And I should be able to search available spots by <type>
+    And I should be able to search available spots by type again
     
     Scenario: Successful search for available parking spots by charger availability
     When I press the "Show only spots with charger" button
-    Then I should see all spots with 
-        |hasCharger|'yes'|
+    Then I should see all spots with charger
     And available parking spots with charger exist 
     Then I should see the message "Showing spots with charger!"
     And I should see the <spot information> of available parking spots with charger   
@@ -53,8 +50,7 @@ Feature: Search for available parking spots
     
     Scenario: Failed search for available parking spots by charger availability
     When I press the "Show only spots with charger" button
-    Then I should see all spots with
-        |hasCharger|'yes'|
+    Then I should see all spots with charger
     But the parking spots with charger are occupied or non-existent
     Then I should see the message "No spots available with charger."
     And I should be able to return to homepage
