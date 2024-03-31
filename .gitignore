@@ -2,6 +2,6 @@
 *
 
 # But not these files...
-!.Project 1/
+!.Project 1/*
 !README.md
 !.gitignore
