@@ -3,7 +3,11 @@
 
 # Don't ignore directories, so we can recurse into them
 !*/
+!Project 1/*
+!Project 1/*/**
 
 # Don't ignore .gitignore and README files
 !.gitignore
 !README
+
+Project 1/παλια εργασια 2020.pdf
