@@ -9,7 +9,7 @@ This repository contains materials related to Project 1 of the Software Engineer
 
 - Project 1 focuses on the initial stages of software development, including the creation of a use case diagram, activity diagrams, and the formulation of Gherkin code. The diagrams have been designed using StarUML to depict system interactions and process flows.
 
-  - Code in **Gherkin** and diagrams made with **StarUML**
+  - Code in **Gherkin** and diagrams made with **StarUML**.
 
 - Project 2 materials will be added soon.
 
