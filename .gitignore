@@ -1,5 +1,7 @@
+# Ignore everything
+*
 
-app ideas.txt
-*.zip
-UMLlab.mdj
-παλια εργασια 2020.pdf
+# But not these files...
+!.Project 1
+!README.md
+!.gitignore
