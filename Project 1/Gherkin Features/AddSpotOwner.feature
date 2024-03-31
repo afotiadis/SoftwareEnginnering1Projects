@@ -4,7 +4,7 @@ Feature: Add spot owner
     Given that I am the system administrator
     And I am on the administration page
     
-  Scenario: Sucessfully add new spot owner
+  Scenario: Successfully add new spot owner
     When I click the button "add new spot owner"
     And I enter the <spot owner's information>
         |name|surname|id number|E-mail|phone number|

@@ -22,6 +22,6 @@ Feature: Manage parking spots
     When I select to modify spot information
     And I enter the <spot information>
         |address|type|hasCharger|
-    But the spot information is inavlid
+    But the spot information is invalid
     Then I should see the message "Invalid information!"
     And I should be able to enter information again

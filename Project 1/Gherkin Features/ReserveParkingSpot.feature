@@ -3,13 +3,13 @@ Feature: Reserve a parking spot
     Background:
       Given I am the user
       
-    Scenario:Succefully reserve a parking spot
+    Scenario:Successfully reserve a parking spot
       When I select a parking spot
       And I press the "Reserve spot" button
       And the spot is available
       Then the system should reserve the spot 
       And I should see the message "Spot Reserved!"
-      And I should be promted to enter the <reservation info>
+      And I should be prompted to enter the <reservation info>
         |date|start time|duration|
       And the <reservation info> should be added to the reservation
       And I should see the message "Information saved!"
@@ -19,7 +19,7 @@ Feature: Reserve a parking spot
       When I select a parking spot
       And I press the "Reserve spot" button
       But the spot is occupied
-      Then I should see the message "Spot is full! Select a different spot."
+      Then I should see the message "Spot is occupied! Select a different one."
       And I should be able to select another parking spot
       
     
