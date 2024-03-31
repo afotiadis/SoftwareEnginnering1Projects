@@ -2,6 +2,7 @@ Feature: Add parking spots
   
   Background:
     Given that I am a spot owner
+    And I am on the spot owner page
     
   Scenario: Add parking spot
     When I select to add a parking spot

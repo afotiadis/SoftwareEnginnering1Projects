@@ -2,6 +2,7 @@ Feature: Manage parking spots
   
   Background:
     Given that I am a spot owner
+    And I am on the spot owner page
     And I have added a spot
     
   Scenario: Modify spot information
