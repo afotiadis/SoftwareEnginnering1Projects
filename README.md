@@ -15,8 +15,8 @@ This repository contains materials related to Project 1 of the Software Engineer
 
 ## The rest of the team
 
-- Giorgos Pittis
-- Alexandros Fotiadis
-- Anastasis Gourdomichalis
+- [Giorgos Pittis](https://github.com/gkpittis)
+- [Alexandros Fotiadis](https://github.com/afotiadis)
+- [Anastasis Gourdomichalis](https://github.com/anasgourd)
 
 
