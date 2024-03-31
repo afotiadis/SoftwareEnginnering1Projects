@@ -1,12 +1,9 @@
+# Ignore everything
+*
 
-<<<<<<< HEAD
-# But not these files...
-!Project 1/*
-!README.md
+# Don't ignore directories, so we can recurse into them
+!*/
+
+# Don't ignore .gitignore and README files
 !.gitignore
-=======
-app ideas.txt
-*.zip
-UMLlab.mdj
-παλια εργασια 2020.pdf
->>>>>>> parent of 04e5343 (Update .gitignore)
+!README
