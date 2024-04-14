@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains materials related to Project 1 of the Software Engineering 1 course of ECE, Aristotle University of Thessaloniki.
+This repository contains materials related to assignments of the Software Engineering 1 course of ECE, Aristotle University of Thessaloniki.
 
 >Course professor: [Andreas Symeonidis](https://github.com/asymeon)
 >> Made with valuable help from the <img src="https://github.com/tsarnadelis/SoftwareEnginnering1Projects/assets/81568914/0cf9506c-3d8d-45bf-8969-ea44d425d1e4" style="height: 15px; width:auto; "/> [Cyclopt](https://github.com/cyclopt)  team.
@@ -11,7 +11,11 @@ This repository contains materials related to Project 1 of the Software Engineer
 
   - Code in **Gherkin** and diagrams made with **StarUML**.
 
-- Project 2 materials will be added soon.
+- Project 2 includes static class modeling, dynamic modeling and applied design patterns, and is a continuation of the previous.
+
+  - Diagrams made with **StarUML**.   
+
+- Project 3 materials will be added soon.
 
 ## The rest of the team
 
