@@ -9,11 +9,11 @@ This repository contains materials related to assignments of the Software Engine
 
 - Project 1 focuses on the initial stages of software development, including the creation of a use case diagram, activity diagrams, and the formulation of Gherkin code. The diagrams have been designed using StarUML to depict system interactions and process flows.
 
-  - Code in **Gherkin** and diagrams made with **StarUML**.
+  - Code in [Gherkin](https://cucumber.io/docs/gherkin/) and diagrams made with [StarUML](https://staruml.io/).
 
 - Project 2 includes static class modeling, dynamic modeling and applied design patterns, and is a continuation of the previous.
 
-  - Diagrams made with **StarUML**.   
+  - Diagrams made with [StarUML](https://staruml.io/).   
 
 - Project 3 materials will be added soon.
 
