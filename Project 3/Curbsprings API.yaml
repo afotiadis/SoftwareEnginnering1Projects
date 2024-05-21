@@ -103,7 +103,7 @@ paths:
           description: Parking spot updated successfully
     delete:
       summary: Remove a specific parking spot from the system
-      description: "FR13: The spot owner must be able to modify the information of their spots"
+      description: "FR14: The spot owner must be able to remove a spot from the system"
       operationId: removeSpot
       tags:
         - Spot
