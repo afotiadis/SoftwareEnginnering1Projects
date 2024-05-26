@@ -326,8 +326,8 @@ components:
     LicensePlate:
       type: object
       properties:
-        user:
-          $ref: '#/components/schemas/User'
+        userId:
+          type: integer
         licensePlate:
           type: string
           
