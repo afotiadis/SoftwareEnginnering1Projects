@@ -2,8 +2,10 @@
 
 <p align=center>
 <img src="https://lab.issel.ee.auth.gr/wp-content/uploads/2021/06/logo.png" height=100px width:auto />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://www.openapis.org/wp-content/uploads/sites/3/2018/02/OpenAPI_Logo_Stacked_White.png" height=100px width:auto />
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-<img src="https://github.com/cucumber-ltd/brand/blob/master/images/svg/notm/cucumber-white.svg" height=100px width:auto />
+<img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" height=100px width:auto />
 </p>
 ## Overview
 
