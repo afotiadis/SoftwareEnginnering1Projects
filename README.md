@@ -1,11 +1,20 @@
 # Software Engineering 1 Project
 
+<p align=center>
+<img src="https://lab.issel.ee.auth.gr/wp-content/uploads/2021/06/logo.png" height=100px width:auto />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://www.openapis.org/wp-content/uploads/sites/3/2018/02/OpenAPI_Logo_Stacked_White.png" height=100px width:auto />
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+<img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" height=100px width:auto />
+</p>
 ## Overview
 
 This repository contains materials related to assignments of the Software Engineering 1 course of ECE, Aristotle University of Thessaloniki.
 
 >Course professor: [Andreas Symeonidis](https://github.com/asymeon)
->> Made with valuable help from the <img src="https://github.com/tsarnadelis/SoftwareEnginnering1Projects/assets/81568914/0cf9506c-3d8d-45bf-8969-ea44d425d1e4" style="height: 15px; width:auto; "/> [Cyclopt](https://github.com/cyclopt)  and [ISSEL](https://lab.issel.ee.auth.gr/) team.
+
+> Made with valuable help from the [ISSEL](https://lab.issel.ee.auth.gr/) team.
+
 
 ## Project 1
 Project 1 focuses on the initial stages of software development, including the creation of a use case diagram, activity diagrams, and the formulation of Gherkin code. The diagrams have been designed using StarUML to depict system interactions and process flows.
