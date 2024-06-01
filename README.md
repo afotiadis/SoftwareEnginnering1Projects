@@ -12,7 +12,7 @@
 
 This repository contains materials related to assignments of the Software Engineering 1 course of ECE, Aristotle University of Thessaloniki.
 
->Course professor: [Andreas Symeonidis](https://github.com/asymeon)
+>Course professor: [Andreas Symeonidis](https://people.auth.gr/symeonid/).
 
 > Made with valuable help from the [ISSEL](https://lab.issel.ee.auth.gr/) team.
 
