@@ -30,7 +30,7 @@ Project 2 includes static class modeling, dynamic modeling and applied design pa
 ## Project 3
 Project 3 includes designing an API for the app, based on the FRs and NFRs chosen in the first part of the project.
 
-- API made using [OpenAPI](https://www.openapis.org/) with [Swagger Editor](https://swagger.io/)
+- API made using [OpenAPI](https://www.openapis.org/) with [Swagger Editor](https://swagger.io/).
 
 ## The rest of the team
 
