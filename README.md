@@ -7,6 +7,7 @@
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" height=100px width:auto />
 </p>
+
 ## Overview
 
 This repository contains materials related to assignments of the Software Engineering 1 course of ECE, Aristotle University of Thessaloniki.
