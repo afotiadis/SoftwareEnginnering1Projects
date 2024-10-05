@@ -1,7 +1,7 @@
 # Software Engineering 1 Project
 
 <p align=center>
-<img src="https://lab.issel.ee.auth.gr/wp-content/uploads/2021/06/logo.png" height=100px width:auto />
+<img src="https://issel.ee.auth.gr/wp-content/uploads/2021/06/logo.png" height=100px width:auto />
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <img src="https://www.openapis.org/wp-content/uploads/sites/3/2018/02/OpenAPI_Logo_Stacked_White.png" height=100px width:auto />
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
@@ -14,7 +14,7 @@ This repository contains materials related to assignments of the Software Engine
 
 >Course professor: [Andreas Symeonidis](https://people.auth.gr/symeonid/).
 
-> Made with valuable help from the [ISSEL](https://lab.issel.ee.auth.gr/) team.
+> Made with valuable help from the [ISSEL](https://issel.ee.auth.gr/) team.
 
 
 ## Project 1
